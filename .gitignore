@@ -13,3 +13,4 @@ vite.log
 .idea/
 .DS_Store
 Thumbs.db
+.vite/
