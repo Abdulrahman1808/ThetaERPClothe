@@ -1,7 +1,7 @@
 import React from "react";
 import { Scissors, QrCode, Trash2, Layers2 } from "lucide-react";
 import {
-  PageHeader, Card, StatCard, Badge, DataTable, Callout, FlowSteps, statusTone,
+  PageHeader, Card, StatCard, Badge, DataTable, Callout, FlowSteps, statusTone, StatusBadge,
 } from "../components/ui.jsx";
 import { cuttingOrders, bundles, fmtNum } from "../data/mock.js";
 
